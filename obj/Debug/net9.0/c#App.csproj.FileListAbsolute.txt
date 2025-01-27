@@ -1,0 +1,14 @@
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/bin/Debug/net9.0/c#App
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/bin/Debug/net9.0/c#App.deps.json
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/bin/Debug/net9.0/c#App.runtimeconfig.json
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/bin/Debug/net9.0/c#App.dll
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/bin/Debug/net9.0/c#App.pdb
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/c#App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/c#App.AssemblyInfoInputs.cache
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/c#App.AssemblyInfo.cs
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/c#App.csproj.CoreCompileInputs.cache
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/c#App.dll
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/refint/c#App.dll
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/c#App.pdb
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/c#App.genruntimeconfig.cache
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/ref/c#App.dll
