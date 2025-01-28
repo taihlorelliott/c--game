@@ -12,3 +12,4 @@
 /Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/c#App.pdb
 /Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/c#App.genruntimeconfig.cache
 /Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/ref/c#App.dll
+/Users/taihlorelliott/code/ga/projects/capstone/c#App/obj/Debug/net9.0/c#App.sourcelink.json
